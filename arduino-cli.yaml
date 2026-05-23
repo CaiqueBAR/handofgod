@@ -1,0 +1,8 @@
+board_manager:
+  additional_urls: []
+directories:
+  data: C:\Users\super\OneDrive\Área de Trabalho\handsOfGod\arduino-data
+  downloads: C:\Users\super\OneDrive\Área de Trabalho\handsOfGod\arduino-downloads
+  user: C:\Users\super\OneDrive\Área de Trabalho\handsOfGod\arduino-user
+logging:
+  level: info
